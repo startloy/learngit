@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-Bug issue001
-=======
 test
->>>>>>> Stashed changes
 feng3
 feng2
 feng
